@@ -1,0 +1,9 @@
+# Ametikooli-projekt-grupp-2-2023
+Grupp 2
+Siim Oll
+Katrin Ansper
+Mattias Maasik
+Evert Kärp
+Robin Mihkelson
+Ken-Martti Paju
+Kätlin Epelbaum
