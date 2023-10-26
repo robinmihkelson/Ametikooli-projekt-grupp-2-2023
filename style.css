@@ -1,9 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@100&display=swap');
+
 *{
     padding: 0;
     margin: 0;
-    background: black;
     color: white;
     font-family: "urbanist";
+    
+    
+}
+
+body {
+    background  : linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(255,0,0,1) 86%);
+    
+   
+    
+
 }
 
 .header{
@@ -31,6 +42,7 @@
 }
 
 .footer-current{
+    background:linear-gradient(0, rgba(2,0,36,1) 0%, rgba(255,0,0,1) 86%);
     flex-direction: row;
     display: flex;
     justify-content: center;
@@ -43,27 +55,37 @@
 
 .plotsuur {
     text-align: center;
+   
 }
 
 .plottext1 {
     text-align: center;
+   
 }
 
 .sawxpildid1 {
     text-align: center;
-    border-radius: 10%;
+    border-radius: 33px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    
 }
 
 .plottext2 {
     text-align: center;
+    
 }
 
 
 .plottext3 {
     text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
 }
 .flex{
     display: flex;
     align-items: center;
     flex-direction: column;
 }
+
