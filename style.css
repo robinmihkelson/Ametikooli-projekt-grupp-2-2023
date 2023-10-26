@@ -10,7 +10,7 @@
 }
 
 body {
-    background  : linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(255,0,0,1) 86%);
+    background  : linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 86%);
 }
 
 .header{
@@ -19,7 +19,7 @@ body {
     font-size: 12px;
     text-align: center;
     background: rgb(2,0,36);
-    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(255,0,0,1) 86%);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 86%);
     border-radius: 5px;
     text-decoration: none;
 }
@@ -41,6 +41,7 @@ body {
 .footer-current{
     margin-top:50px;
     background:linear-gradient(0, rgba(2,0,36,1) 0%, rgba(255,0,0,1) 86%);
+
 
     flex-direction: row;
     display: flex;
@@ -115,6 +116,9 @@ body {
     margin-top: 15px;
 }
 
+.main_trailer_section{
+    padding: 10px;
+}
 .watch_more-h1{
     font-size: 32px;
     text-align: center;
@@ -123,7 +127,9 @@ body {
 }
 
 .trailers {
-    margin-top: 7%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     width: auto;
@@ -137,7 +143,7 @@ body {
     width: 100%;
     border-radius: 10px;
     height: 91px;
-
+    
     height: calc(20vw);
 }
 
