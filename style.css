@@ -1,8 +1,8 @@
 
-.main_trailer{
+.main_trailer_section iframe{
     width: 100%;
-    border-radius: 5px;
-
+    height: 300px;
+    border-radius: 10px;
 }
 
 .watch_more-h1{
@@ -14,16 +14,21 @@
 .trailers {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 15px;
+    width: auto;
+    grid-template-rows: auto;
+    gap: 8px;
 }
 
 .trailer{
     text-align: center;
     width: 100%;
-    border-radius: 5px;
+    border-radius: 10px;
+    height: 91px;
 }
 
 .description{
     font-size: 9px;
     margin-top: 0;
+    text-align: center;
+    font-weight: 400;
 }
