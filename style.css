@@ -55,6 +55,7 @@ body {
 
 .plotsuur {
     text-align: center;
+    margin: 20px;
    
 }
 
@@ -71,12 +72,6 @@ body {
     margin-bottom: 25px;
     
 }
-
-.plottext2 {
-    text-align: center;
-    max-width: 80%;   
-}
-
 
 .flex{
     display: flex;
