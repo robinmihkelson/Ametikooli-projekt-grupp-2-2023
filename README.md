@@ -3,13 +3,13 @@
 
 # TEAM MEMBERS:
 
-* Siim Oll
-* Katrin Ansper
-* Mattias Maasik
-* Evert Kärp
-* Robin Mihkelson
-* Ken-Martti Paju
-* Kätlin Epelbaum
+* Siim Oll Ta-23
+* Katrin Ansper Ta-23
+* Mattias Maasik Tak-21
+* Evert Kärp Tak-21
+* Robin Mihkelson Tak-23
+* Ken-Martti Paju Tak-23
+* Kätlin Epelbaum Tak-23
 
 
 # PROJECT MANAGEMENT:
@@ -39,6 +39,8 @@ https://www.figma.com/file/E4eoH3BTfe392B2L5zHgV9/Untitled?type=design&node-id=0
 
 # PÄEV 2:
 
+* Branches
+* Desktopi vaade
 * 
 
 
