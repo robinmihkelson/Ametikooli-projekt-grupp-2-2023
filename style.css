@@ -39,7 +39,7 @@ body {
 }
 
 .footer-current{
-    margin-top: 10%;
+    margin-top:50px;
     background:linear-gradient(0, rgba(2,0,36,1) 0%, rgba(255,0,0,1) 86%);
 
     flex-direction: row;
@@ -47,6 +47,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 10px;
+    min-width: 100%;
 }
 
 
@@ -58,6 +59,7 @@ body {
 
 .plottext1 {
     text-align: center;
+    max-width: 80%;
    
 }
 
@@ -71,16 +73,10 @@ body {
 
 .plottext2 {
     text-align: center;
-    
+    max-width: 80%;   
 }
 
 
-.plottext3 {
-    text-align: center;
-    margin-top: 25px;
-    margin-bottom: 25px;
-
-}
 .flex{
     display: flex;
     align-items: center;
