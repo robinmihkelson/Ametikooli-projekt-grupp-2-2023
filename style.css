@@ -1,0 +1,26 @@
+.plotsuur {
+    text-align: center;
+}
+
+.plottext1 {
+    text-align: center;
+}
+
+.sawxpildid1 {
+    text-align: center;
+    border-radius: 10%;
+}
+
+.plottext2 {
+    text-align: center;
+}
+
+
+.plottext3 {
+    text-align: center;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
