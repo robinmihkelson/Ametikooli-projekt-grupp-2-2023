@@ -119,6 +119,9 @@ body {
     margin-top: 15px;
 }
 
+.main_trailer_section{
+    padding: 10px;
+}
 .watch_more-h1{
     font-size: 32px;
     text-align: center;
@@ -127,7 +130,9 @@ body {
 }
 
 .trailers {
-    margin-top: 7%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     width: auto;
@@ -141,7 +146,7 @@ body {
     width: 100%;
     border-radius: 10px;
     height: 91px;
-
+    
     height: calc(20vw);
 }
 
