@@ -10,7 +10,7 @@
 }
 
 body {
-    background  : linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(255,0,0,1) 86%);
+    background  : linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 86%);
 }
 
 .header{
@@ -19,7 +19,7 @@ body {
     font-size: 12px;
     text-align: center;
     background: rgb(2,0,36);
-    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(255,0,0,1) 86%);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 86%);
     border-radius: 5px;
     text-decoration: none;
 }
@@ -40,7 +40,7 @@ body {
 
 .footer-current{
     margin-top: 10%;
-    background:linear-gradient(0, rgba(2,0,36,1) 0%, rgba(255,0,0,1) 86%);
+    background:linear-gradient(0, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 86%);
 
     flex-direction: row;
     display: flex;
