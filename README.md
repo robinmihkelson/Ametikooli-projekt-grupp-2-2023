@@ -35,6 +35,8 @@ https://www.figma.com/file/E4eoH3BTfe392B2L5zHgV9/Untitled?type=design&node-id=0
 * Vaatasime, mis lehed teha
 * Jaotasime ülessanded
 * Tegime Figmas mobiilse vaate valmis
+  
+![IMG_20231026_155859](https://github.com/robinmihkelson/Ametikooli-projekt-grupp-2-2023/assets/137103720/9de0e677-a6ac-44c7-af86-7dd8a4806db5)
 
 
 # PÄEV 2:
@@ -44,5 +46,8 @@ https://www.figma.com/file/E4eoH3BTfe392B2L5zHgV9/Untitled?type=design&node-id=0
 * Zone'i üleslaadimine
 * PageSpeed Insights
 
+![IMG_20231026_155507](https://github.com/robinmihkelson/Ametikooli-projekt-grupp-2-2023/assets/137103720/dd3f6df9-82fe-48fc-b97f-c874562c9ad9)
 
+# PÄEV 3:
 
+* Parandused
