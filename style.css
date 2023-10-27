@@ -7,62 +7,65 @@
     margin: 0;
     color: white;
     font-family: "urbanist";
-    
-    
 }
 
 body {
-    background  : linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(255,0,0,1) 86%);
-    
-   
-    
-
+    background  : linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 86%);
 }
 
 .header{
     width: 50px;
-    height: 26px;
+    height: 20px;
     font-size: 12px;
     text-align: center;
     background: rgb(2,0,36);
-    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(255,0,0,1) 86%);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 86%);
     border-radius: 5px;
     text-decoration: none;
 }
 
 .nav{
     display: flex;
+    align-items: center;
     flex-direction: row;
     width: 100%;
-    height: 100%;
+    height: 60px;
+    background: black;
     justify-content: space-around;
-    padding-top: 10px;
 }
 
 .footer{
     text-decoration: none;
 }
 
-.footer-current{
-    margin-top: 10%;
-    background:linear-gradient(0, rgba(2,0,36,1) 0%, rgba(255,0,0,1) 86%);
+.footer_logo{
+    width: 18px;
+    height: 18px;
 
+}
+
+.footer-current{
+    margin-top:20px;
+    background:linear-gradient(0, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 86%);
     flex-direction: row;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 10px;
+    min-width: 100%;
+    height: 50px;
 }
 
 
 
 .plotsuur {
     text-align: center;
-   
+    margin: 20px;
 }
 
 .plottext1 {
     text-align: center;
+    max-width: 80%;
    
 }
 
@@ -74,18 +77,6 @@ body {
     
 }
 
-.plottext2 {
-    text-align: center;
-    
-}
-
-
-.plottext3 {
-    text-align: center;
-    margin-top: 25px;
-    margin-bottom: 25px;
-
-}
 .flex{
     display: flex;
     align-items: center;
@@ -124,11 +115,14 @@ body {
 
 .main_trailer_section iframe{
     width: 100%;
-    height: 300px;
+    height: 50vw;
     border-radius: 10px;
     margin-top: 15px;
 }
 
+.main_trailer_section{
+    padding: 10px;
+}
 .watch_more-h1{
     font-size: 32px;
     text-align: center;
