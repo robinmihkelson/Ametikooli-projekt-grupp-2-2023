@@ -147,3 +147,14 @@ body {
     border-radius: 20px;
     cursor: pointer;
 }
+
+.infotext {
+    text-align: center;
+}
+.infolist {
+    text-align: center;
+}
+
+.infotext3 {
+    text-align: center;
+}
