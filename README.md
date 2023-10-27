@@ -52,36 +52,39 @@ https://www.figma.com/file/E4eoH3BTfe392B2L5zHgV9/Untitled?type=design&node-id=0
 
 * Parandused
 * Tagasiside
+  
+![IMG_20231027_103956](https://github.com/robinmihkelson/Ametikooli-projekt-grupp-2-2023/assets/137103720/bac9d9eb-4a53-4015-8c66-1a6110bdc3d0)
+
 
 # TAGASISIDE
 # 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
 
-* Siim: 
-* Katrin:
-* Mattias:
-* Evert:
-* Robin:
-* Ken-Martti:
-* Kätlin:
+* Siim: ei, ylesanne mille sain sobis v2ga h2asti
+* Katrin: Ei, kõik said nii Figmat kui ka kodeerimist teha, projektijuhiks sobis Mattias väga hästi.
+* Mattias: ei
+* Evert: Ei, kõik sobis.
+* Robin: Ei, minu jaoks sobis see mida ma tegema pidin siin meeskonnas.
+* Ken-Martti: Ei oleks
+* Kätlin:Ei, mulle meeldis kuidas saime teha kõike.
 
 # 2.Üks pehme oskus, mida õppisin/endas arendasin.
 
-* Siim: 
-* Katrin:
-* Mattias:
-* Evert:
-* Robin:
-* Ken-Martti:
-* Kätlin:
+* Siim: css grid
+* Katrin: Meeskonnatöö.
+* Mattias: juhendamine
+* Evert: Oppisin paremini suhtlema tiimiga.
+* Robin: Sain teada kuidas figmat ja zonei kasutada.
+* Ken-Martti: Oppisin figmat ja kuidas tiimiga koos vscode kasutada
+* Kätlin: Figma kasutamist
 
 # 3.Üks tehniline oskus, mida õppisin/endas arendasin.
 
-* Siim: 
-* Katrin:
-* Mattias:
-* Evert:
-* Robin:
-* Ken-Martti:
-* Kätlin:
+* Siim: vsc push ja pull ja sain aru kuidas erinevad branchid toimivad jne
+* Katrin: Github, HTML ja CSS, Zone, Speedtest.
+* Mattias: juhendamine
+* Evert: Tuletasin meelde, kuidas erinevad asjad töötasid.
+* Robin: HTML, CSS, Speedtest ja Zone
+* Ken-Martti: HTML, vscode, CSS, Zone
+* Kätlin: Vsc push ja pull, Zone, Speedtest.
 
 
