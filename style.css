@@ -40,7 +40,7 @@ body {
 
 .footer-current{
     margin-top:50px;
-    background:linear-gradient(0, rgba(2,0,36,1) 0%, rgba(255,0,0,1) 86%);
+    background:linear-gradient(0, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 86%);
 
 
     flex-direction: row;
