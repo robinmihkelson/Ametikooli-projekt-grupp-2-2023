@@ -41,7 +41,8 @@ https://www.figma.com/file/E4eoH3BTfe392B2L5zHgV9/Untitled?type=design&node-id=0
 
 * Branches
 * Desktopi vaade
-* 
+* Zone'i üleslaadimine
+* PageSpeed Insights
 
 
 
