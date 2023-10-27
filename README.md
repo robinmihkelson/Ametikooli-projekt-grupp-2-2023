@@ -28,7 +28,8 @@
 
 https://www.figma.com/file/E4eoH3BTfe392B2L5zHgV9/Untitled?type=design&node-id=0%3A1&mode=design&t=qF0Ag8fBCKrrkI66-1
 
-
+# LIVE LINK:
+https://ta23oll.itmajakas.ee/Ametikooli-projekt-grupp-2-2023/
 # PÄEV 1:
 
 * Valisime filmi
