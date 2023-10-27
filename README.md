@@ -53,7 +53,8 @@ https://www.figma.com/file/E4eoH3BTfe392B2L5zHgV9/Untitled?type=design&node-id=0
 * Parandused
 * Tagasiside
   
-![IMG_20231027_103956](https://github.com/robinmihkelson/Ametikooli-projekt-grupp-2-2023/assets/137103720/bac9d9eb-4a53-4015-8c66-1a6110bdc3d0)
+![IMG_20231027_110625](https://github.com/robinmihkelson/Ametikooli-projekt-grupp-2-2023/assets/137103720/4b6d8ff6-e2db-4998-92f0-579ffb90c045)
+
 
 
 # TAGASISIDE
