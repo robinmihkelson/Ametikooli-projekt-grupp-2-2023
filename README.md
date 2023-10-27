@@ -60,7 +60,7 @@ https://www.figma.com/file/E4eoH3BTfe392B2L5zHgV9/Untitled?type=design&node-id=0
 # TAGASISIDE
 # 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
 
-* Siim: ei, ylesanne mille sain sobis v2ga h2asti
+* Siim: ei, ülesanne mille sain sobis väga hästi
 * Katrin: Ei, kõik said nii Figmat kui ka kodeerimist teha, projektijuhiks sobis Mattias väga hästi.
 * Mattias: ei
 * Evert: Ei, kõik sobis.
@@ -73,9 +73,9 @@ https://www.figma.com/file/E4eoH3BTfe392B2L5zHgV9/Untitled?type=design&node-id=0
 * Siim: css grid
 * Katrin: Meeskonnatöö.
 * Mattias: juhendamine
-* Evert: Oppisin paremini suhtlema tiimiga.
+* Evert: õppisin paremini suhtlema tiimiga.
 * Robin: Sain teada kuidas figmat ja zonei kasutada.
-* Ken-Martti: Oppisin figmat ja kuidas tiimiga koos vscode kasutada
+* Ken-Martti: õppisin figmat ja kuidas tiimiga koos vscode kasutada
 * Kätlin: Figma kasutamist
 
 # 3.Üks tehniline oskus, mida õppisin/endas arendasin.
