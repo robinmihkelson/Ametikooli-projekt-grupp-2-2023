@@ -51,3 +51,37 @@ https://www.figma.com/file/E4eoH3BTfe392B2L5zHgV9/Untitled?type=design&node-id=0
 # PÄEV 3:
 
 * Parandused
+* Tagasiside
+
+# TAGASISIDE
+# 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
+
+* Siim: 
+* Katrin:
+* Mattias:
+* Evert:
+* Robin:
+* Ken-Martti:
+* Kätlin:
+
+# 2.Üks pehme oskus, mida õppisin/endas arendasin.
+
+* Siim: 
+* Katrin:
+* Mattias:
+* Evert:
+* Robin:
+* Ken-Martti:
+* Kätlin:
+
+# 3.Üks tehniline oskus, mida õppisin/endas arendasin.
+
+* Siim: 
+* Katrin:
+* Mattias:
+* Evert:
+* Robin:
+* Ken-Martti:
+* Kätlin:
+
+
