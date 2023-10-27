@@ -96,7 +96,7 @@
     height: 63px;
     width: 52px;
 }
-.main_trailer_section iframe{
+.main_trailer_section img{
     width: 100%;
     height: 300px;
     border-radius: 10px;
@@ -126,4 +126,8 @@
     border-radius: 10px;
     height: 91px;
     height: calc(20vw);
+}
+
+.trailer_img{
+
 }
